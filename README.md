@@ -1,2 +1,0 @@
-# pathservice
-Created with CodeSandbox
